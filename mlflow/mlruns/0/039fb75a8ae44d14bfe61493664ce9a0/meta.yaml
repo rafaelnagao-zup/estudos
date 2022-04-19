@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rafael.nagao/github/estudos/mlflow/mlruns/0/039fb75a8ae44d14bfe61493664ce9a0/artifacts
+end_time: 1650371862571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 039fb75a8ae44d14bfe61493664ce9a0
+run_uuid: 039fb75a8ae44d14bfe61493664ce9a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1650371862542
+status: 4
+tags: []
+user_id: rafael.nagao
